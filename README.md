@@ -60,3 +60,4 @@
 ```
 
 通过`prometheus.io/schema、prometheus.io/path、prometheus.io/port`更改默认的端口等信息。
+# prometheus-kubernetes
